@@ -35,7 +35,7 @@ class _InputPageState extends State<InputPage> {
           Expanded(
             child: InputCard(
               reps: reps,
-              mainText: 'Repetisions',
+              mainText: 'Repetitions',
               hintText: 'Performed reps',
               margin: EdgeInsets.only(
                   top: 10.0, bottom: 40.0, left: 10.0, right: 10.0),
